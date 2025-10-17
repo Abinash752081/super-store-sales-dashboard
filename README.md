@@ -56,7 +56,8 @@ The dashboard provides a comprehensive view of the Super Store's sales performan
 Here are some glimpses of the Super Store Sales Dashboard:
 
 **Overview Dashboard**
-![Super Store Sales Dashboard](Screenshot%202025-10-13%20023843.jpg)
+![Super Store Sales Dashboard] <img width="667" height="376" alt="image" src="https://github.com/user-attachments/assets/3ba148ac-4eae-4491-8eb9-0dfae28f40f2" />
+
 
 **Sales Forecast and Regional Analysis**
 ![Super Store Sales Forecast](Sales_Dashboard.pdf)
