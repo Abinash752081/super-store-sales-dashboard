@@ -7,7 +7,7 @@
 -   [Key Features & Analysis](#key-features--analysis)
 -   [Technologies Used](#technologies-used)
 -   [Dashboard Screenshots](#dashboard-screenshots)
--   [Project Insight & Actionable Recommendations](#project-insight)
+-   [Project Insight & Actionable Recommendations](#project-insights--actionable-recommendations)
 
 ## Introduction
 
